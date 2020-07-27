@@ -1,6 +1,7 @@
-# flask-resources
-https://www.youtube.com/watch?v=mqhxxeeTbu0
-https://www.youtube.com/watch?v=xIgPMguqyws
+# Flask-Resources
+Learn with Tech With Tim, [Click here for Part1](https://www.youtube.com/watch?v=mqhxxeeTbu0)
+
+Learn with Tech With Tim, [Click here for Part2](https://www.youtube.com/watch?v=xIgPMguqyws)
 
 
 
